@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/adisubramanian/ChessEmbedding/blob/master/dim200vecs_diff_3_vectors_3.tsv",
+      "metadataPath": "https://github.com/adisubramanian/ChessEmbedding/blob/master/dim200vecs_diff_3_keys_3.tsv"
+    }
+  ]
+}
